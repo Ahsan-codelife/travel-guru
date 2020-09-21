@@ -94,10 +94,14 @@ export const signInWithFb = () => {
     const fbProvider = new firebase.auth.FacebookAuthProvider();
     return firebase.auth().signInWithPopup(fbProvider)
     .then(function (result) {
-        let user = result.user;
+        //var token = result.credential.accessToken;
+        var user = result.user;
         user.success = true;
         return user;
     }).catch(function (error) {
-      
+        // var errorCode = error.code;
+        // var errorMessage = error.message;
+        // var email = error.email;
+        // var credential = error.credential;
     });
 }

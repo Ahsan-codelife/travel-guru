@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "travel-guru-807b6"
+    "default": "travel-guru-807b6",
+    "staging": "travel-guru-52e22"
   }
 }
