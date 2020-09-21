@@ -1,0 +1,31 @@
+[
+    {
+        "id":0,
+        "name":"Sundarban",
+        "details":"The Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal.The Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal.",
+        "lat": 21.9497, 
+        "lon": 89.1833
+    },
+    {
+        "id":1,
+        "name":"Sajek valley",
+        "details":"Sajek Valley - সাজেক ভ্যালি / মেঘের উপত্যকায় জীবন is an emerging tourist spot in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District.[1] The valley is 1,476 feet (450 m) above sea level.[2] Sajek valley is known as the Queen of Hills & Roof of Rangamati.",
+        "lat": 23.3820, 
+        "lon": 92.2938
+    },
+    {
+        "id":2,
+        "name":"Sreemangal",
+        "details":"Sreemangal (Bengali: শ্রীমঙ্গল, romanized: Srimongol) is an Upazila of Moulvibazar District[1] in the Sylhet Division of Bangladesh.Madhobpur Lake is one of the main tourist attractions in the area,[3][4][5] and is home to the Great White-Bellied Heron, the only confirmed site in Bangladesh.",
+        "lat": 24.3065, 
+        "lon": 91.7296
+    },
+    {
+        "id":3,
+        "name":"Cox's Bazar",
+        "details":"Cox's Bazar (Bengali: কক্সবাজার]) is a city, fishing port, tourism centre and district headquarters in southeastern Bangladesh. It is famous mostly for its long natural sandy beach, and it is infamous for the largest refugee camp in the world. ",
+        "lat": 21.4272, 
+        "lon": 92.0058
+    }
+
+]
